@@ -41,3 +41,6 @@ node server.js
 ## Contributers
 Eliceo Soto 
 https://github.com/eli-soto/E-commerce-Back-End
+
+## Video
+[Untitled_ Jan 24, 2024 3_42 PM.webm](https://github.com/eli-soto/E-commerce-Back-End/assets/142184979/f69e0edb-354c-483d-8b0f-b8613ecf856a)
