@@ -1,8 +1,8 @@
 # E-commerce-Back-End
 
 ## Table of Contents 
-- Table of Contents
-- Description 
+- Table of Contents 
+- Description
 - User Story
 - Acceptance Criteria
 - Installation
